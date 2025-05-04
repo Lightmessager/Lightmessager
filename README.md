@@ -9,8 +9,11 @@
 🌱 正在培育：视觉小说《新生之叶》([剧本工坊](https://github.com/Lightmessager/NewLeaf-Scripts) | Renpy Demo即将上线✨)  
 ⚡️ 能量矩阵：  
   ▫️ 阎魔爱终身追求者
+  
   ▫️ ATRI重塑者
+  
   ▫️ AI药物发现/半导体材料模拟 双轨研究者
+  
   ▫️ 点击[星图导航](https://github.com/Lightmessager)探索我的数字宇宙
 
 ---
