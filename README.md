@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Lightmessager/AboutMe_Source/main/banner.png](https://github.com/Lightmessager/Lightmessager/edit/main/README.md)" width="600"/> 
+  <img src="https://raw.githubusercontent.com/Lightmessager/Lightmessager/main/banner.png" width="600"/> 
 </div>
-
 ---
 
 #### 🎨 次元穿梭者档案  
