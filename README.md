@@ -25,7 +25,7 @@
 ---
 
 #### 📚 创世日志
-[![新生之叶概念图](https://raw.githubusercontent.com/Lightmessager/NewLeaf-Scripts/main/cover.jpg)](https://github.com/Lightmessager/NewLeaf-Scripts)  
+[![新生之叶概念图](https://github.com/Lightmessager/Lightmessager/blob/main/cover.png)] 
 ​**​《新生之叶》开发档案**​  
 ▫️ 世界观：就不告诉你  
 ▫️ 技术栈：Renpy引擎 × Python脚本  
