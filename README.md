@@ -32,7 +32,7 @@
 ​**​《新生之叶》开发档案**​  
 ▫️ 世界观：就不告诉你  
 ▫️ 技术栈：Renpy引擎 × Python脚本  
-▫️ [试玩Demo](https://github.com/Lightmessager/Renpy-Demo) | [剧情决策树](https://github.com/Lightmessager/Plot-Branching)  
+▫️ [试玩Demo 未开放]() | [剧情决策树 未开放]()  
 
 ---
 
