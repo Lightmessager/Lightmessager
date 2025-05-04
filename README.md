@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lightmessager/Lightmessager/main/banner.gif" width="600"/> 
+  <img src="https://raw.githubusercontent.com/Lightmessager/Lightmessager/main/banner.png" width="600"/> 
 </div>
 
 ---
