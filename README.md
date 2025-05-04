@@ -8,8 +8,9 @@
 👨💻 05年INFJ人格，穿梭在分子动力学与代码宇宙的浪漫主义者  
 🌱 正在培育：视觉小说《新生之叶》([剧本工坊](https://github.com/Lightmessager/NewLeaf-Scripts) | Renpy Demo即将上线✨)  
 ⚡️ 能量矩阵：  
-  ▫️ 虚拟偶像应援部终生会员 🎮📖  
-  ▫️ AI药物发现/半导体材料模拟 双轨研究者 🔬🤖  
+  ▫️ 阎魔爱终身追求者
+  ▫️ ATRI重塑者
+  ▫️ AI药物发现/半导体材料模拟 双轨研究者 
   ▫️ 点击[星图导航](https://github.com/Lightmessager)探索我的数字宇宙  
 
 ---
@@ -25,7 +26,10 @@
 ---
 
 #### 📚 创世日志
-[![新生之叶概念图](https://raw.githubusercontent.com/Lightmessager/NewLeaf-Scripts/main/cover.jpg)]
+<div align="left">
+  <img src="https://github.com/Lightmessager/Lightmessager/blob/main/cover.png" width="60"/> 
+</div>
+
 ​**​《新生之叶》开发档案**​  
 ▫️ 世界观：就不告诉你  
 ▫️ 技术栈：Renpy引擎 × Python脚本  
