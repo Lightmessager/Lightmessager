@@ -10,8 +10,8 @@
 ⚡️ 能量矩阵：  
   ▫️ 阎魔爱终身追求者
   ▫️ ATRI重塑者
-  ▫️ AI药物发现/半导体材料模拟 双轨研究者 
-  ▫️ 点击[星图导航](https://github.com/Lightmessager)探索我的数字宇宙  
+  ▫️ AI药物发现/半导体材料模拟 双轨研究者
+  ▫️ 点击[星图导航](https://github.com/Lightmessager)探索我的数字宇宙
 
 ---
 
