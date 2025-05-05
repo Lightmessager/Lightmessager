@@ -34,7 +34,7 @@
 ​**​《新生之叶》开发档案**​  
 ▫️ 世界观：就不告诉你  
 ▫️ 技术栈：Renpy引擎 × Python脚本  
-▫️ [试玩Demo 未开放]() | [剧情决策树 未开放]()  
+▫️ [试玩Demo 未开放]() | [剧情决策树 未开放]()  [老旧的小段视频 现已开放](https://github.com/Lightmessager/NewLeaf/blob/main/OldDemo%20v1.0/demovideo.webm)
 
 ---
 
