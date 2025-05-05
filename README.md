@@ -47,4 +47,4 @@
 
 #### 🌌 跨次元连接
 [<img src="https://img.shields.io/badge/问题咨询-时空信标-blue?logo=github" width="140">](https://github.com/Lightmessager/Lightmessager/issues)
-[<img src="https://img.shields.io/badge/创作协作-联合开发-success?logo=git" width="140">](https://github.com/Lightmessager/NewLeaf-Scripts/pulls)
+[<img src="https://img.shields.io/badge/创作协作-联合开发-success?logo=git" width="140">](https://github.com/Lightmessager/NewLeaf/pulls)
