@@ -95,7 +95,7 @@ Using **DFT** & **Gaussian** to investigate free energy changes of **organometal
 | Tool | Proficiency | Workflow |
 |------|------------|----------|
 | **Gaussian** | ✅ Full pipeline | Structure building → Geo opt → SP → Fix opt → TS location → Intermediate opt → Mechanism design |
-| **AI Batch Extractor** | ✅ Self-developed | Batch extraction & processing of Gaussian log file data, you can download here（https://github.com/Lightmessager/Gaussian09d-log-reader-Pro/tree/main） |
+| **AI Batch Extractor** | ✅ Self-developed | Batch extraction & processing of Gaussian log file data, you can download [here]( https://github.com/Lightmessager/Gaussian09d-log-reader-Pro/tree/main) |
 | **Molecular Dynamics** | 🔰 Basic exposure | — |
 
 ### Theory Strengths
