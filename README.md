@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/AI--Powered-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Minimalist-2ECC71?style=for-the-badge&logo=dropbox&logoColor=white" />
   <a href="https://lightmessager.github.io">
-  <img src="https://img.shields.io/badge/Academic_Website-B39DDB?style=for-the-badge&logo=website&logoColor=white" alt="Academic Website" />
+  <img src="https://img.shields.io/badge/Academic_Website(Click_me)-B39DDB?style=for-the-badge&logo=website&logoColor=white" alt="Academic Website" />
 </a>
 
 </p>
