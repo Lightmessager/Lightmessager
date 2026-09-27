@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/DFT-Gaussian-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMwMDU1QTQiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/AI--Powered-9B59B6?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Minimalist-2ECC71?style=for-the-badge&logo=dropbox&logoColor=white" />
-  [![Academic Website](https://img.shields.io/badge/Academic_Website-B39DDB?style=for-the-badge&logo=website&logoColor=white)](https://lightmessager.github.io)
+  <a href="https://lightmessager.github.io">
+  <img src="https://img.shields.io/badge/Academic_Website-B39DDB?style=for-the-badge&logo=website&logoColor=white" alt="Academic Website" />
+</a>
 
 </p>
 
